@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loader", "Loader\Loader.csproj", "{F204B3C8-6E50-483D-9992-BB6D9A9A23A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuftEftMain", "AuftEftMain\AuftEftMain.csproj", "{202FBDCD-29F4-48FE-9A64-E927193D0ECB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AUEFT Main", "AUEFT Main\AUEFT Main.csproj", "{202FBDCD-29F4-48FE-9A64-E927193D0ECB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
