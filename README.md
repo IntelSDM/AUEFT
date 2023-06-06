@@ -1,6 +1,8 @@
 # AUEFT
 An EFT trainer from many many years ago. Just another old project that I am publishing for the sake of it. The bypass was detected long ago, all the auth stuff was stripped, and it is now the injection logic and the internal components. Auth module is also removed so some stuff might not make sense.
 <br>
+Keep in mind this project is from 2020. Original repo is still archived and will remain that way to preserve the original code. 
+<br>
 
 Keep in mind that this is now redundant, old and completely outdated.
 <br>
