@@ -32,6 +32,13 @@ So all we had to do was change the file path names, in unity you can do this by 
 This can be done through the belauncher.ini file which holds the game directory. This resulted in the ability to fully alter the folder structure defeating the integrity checks.
 Obviously the overlay can easily be detected and probably is. This way of defeating the integrity checks has also been long patched.
 In a product standpoint I replicated the bypass on each user's machine simply by copying the game's path to another folder, changing the folder heirarchy and loading the modified folder structure.
+<br>
+
+# Comments On The System
+The code was rushed and awful but in practice the product worked well, the idea for the bypass was rather good espeically for coming out right after they created this new integrity check system 3 years ago.
+A lot of the code was never meant to see the light of day. lack of object oriented programming, lack of obfuscation implementation, lack of organization, over using embedded if statements. All the typical stuff in a messy prototype project that was taken way too far past the prototype phase. 
+
+<br>
 # Images:
 <img src="https://github.com/IntelSDM/AUEFT/blob/master/Images/ss1.png" width=70% height=80%>
 <br>
