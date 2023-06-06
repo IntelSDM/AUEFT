@@ -50,6 +50,6 @@ A lot of the code was never meant to see the light of day. lack of object orient
 <br>
 
 # Videos:
-https://github.com/IntelSDM/AUEFT/blob/master/Videos/vid1.mp4
+https://github.com/IntelSDM/AUEFT/blob/master/Videos/Video1.mp4
 
-https://github.com/IntelSDM/AUEFT/blob/master/Videos/vid2.mp4
+https://github.com/IntelSDM/AUEFT/blob/master/Videos/Video2.mp4
